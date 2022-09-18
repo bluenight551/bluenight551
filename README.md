@@ -1,4 +1,4 @@
-## 👋 Hello World, I'm Kaung
+## 👋 Hello World, I'm Peter
 I'm a self-taught data anlayst
 ## 👨‍🦱 About Me 
 - 💻 currently working on CIS degree ...
